@@ -34,16 +34,16 @@ named "content":
 
 .. code-block:: text
 
-    ┌─── page layout ─────────────────────┐
+    ┌──────────────page layout────────────┐
     │                                     │
-    │           ┌── block "content" ──┐   │
-    │           │                     │   │
-    │           │                     │   │
-    │           │ (child template to  │   │
-    │           │  put content here)  │   │
-    │           │                     │   │
-    │           │                     │   │
-    │           └─────────────────────┘   │
+    │        ┌── block "content" ──┐      │
+    │        │                     │      │
+    │        │                     │      │
+    │        │ (child template to  │      │
+    │        │  put content here)  │      │
+    │        │                     │      │
+    │        │                     │      │
+    │        └─────────────────────┘      │
     │                                     │
     └─────────────────────────────────────┘
 
